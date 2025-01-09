@@ -62,5 +62,5 @@ By building and completing this project, you will have a tangible and impressive
 This project could be a great contribution to the open-source community. By sharing it on GitHub, you allow other developers to contribute, improve, and add features.
 
 ### **6. Mobile Responsiveness**
-Ensure the application is responsive and works seamlessly across various devices (desktop, tablets, smartphones), providing flexibility for users to track expenses on the go
+Ensure the application is responsive and works seamlessly across various devices (desktop, tablets, smartphones), providing flexibility for users to track expenses on the go.
 
